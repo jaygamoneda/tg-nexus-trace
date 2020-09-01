@@ -31,7 +31,7 @@ http://nexus5001.org/wp-content/uploads/2018/05/IEEE-ISTO-5001-2012-v3.0.1-Nexus
 [cols=",,,",]
 |===
 |*Message Name* |*TCODE* |*Direction* |*RISC-V sub-set*
-|Debug Status |0 |From target |Not used (debug)
+|Debug Status |0 |From target |Level 1 (basic set)
 |Device ID |1 |From target |Not used (debug)
 |Ownership Trace |2 |From target |Level 1.2 (for RTOS context)
 |Program Trace - Direct Branch |3 |From target |Level 1 (basic set)
